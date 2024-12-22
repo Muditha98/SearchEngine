@@ -1,0 +1,30 @@
+# Azure Dependencies
+azure-ai-textanalytics
+azure-storage-blob
+azure-cosmos
+azure-search-documents
+azure-core
+
+# Graph Dependencies
+gremlinpython
+networkx
+community
+
+# Visualization
+plotly
+pyvis
+wordcloud
+
+# Data Processing
+pandas
+numpy
+nltk
+
+# Web Framework
+streamlit
+aiohttp
+
+# Utilities
+python-dotenv
+typing-extensions
+
